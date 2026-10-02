@@ -1,0 +1,12 @@
+{
+  "stage": "input-validation",
+  "workers": 1,
+  "result": {
+    "cases_checked": 14,
+    "expected_rejections": 12,
+    "unexpected_acceptances": 0
+  },
+  "cpu_seconds": 0.008342991999999994,
+  "wall_seconds": 9.422139356999992,
+  "peak_rss_kib": 92844
+}
